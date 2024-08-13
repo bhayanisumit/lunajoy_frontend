@@ -1,0 +1,30 @@
+{
+  
+  "mood_rating": {"emoji": ["😄", "😊", "😐", "😔", "😖"],"rating":["Very Happy", "Happy", "Neutral", "Sad", "Very Sad"]},
+  "anxiety": ["No Anxiety", "Mild", "Moderate", "Severe", "Panic Levels"],
+  "sleep_quality": [
+    "Light Sleep",
+    "Deep Sleep",
+    "Very Light",
+    "Very Deep",
+    "Can't Sleep"
+  ],
+  "physical_activity_type": [
+    "Swimming",
+    "Yoga",
+    "Gym",
+    "Walk",
+    "Cycling",
+    "Sports"
+  ],
+  "social_interaction": ["No Interaction", "Occasionally", "Very Frequently"],
+  "stress_level": ["Actual", "Episodic Acute", "Chronic"],
+  "symptoms": [
+    "Poor concentration",
+    "Feelings of excessive guilt or low self-worth",
+    "Hopelessness about the future or thoughts about dying or suicide",
+    "Disrupted sleep",
+    "Changes in appetite or weight",
+    "Feeling very tired or low in energy"
+  ]
+}
